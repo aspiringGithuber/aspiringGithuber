@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a CS Major looking for work. Will add more once I add more projects and they go public.
 
 <!--
 **aspiringGithuber/aspiringGithuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
