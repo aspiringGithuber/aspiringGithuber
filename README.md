@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student @ UIC  
 💻 Java • Python • SQL • C++  
-🔧 Interested in Software Engineering & IT Support  
+🔧 Interested in Software Engineering  
 
 ---
 
