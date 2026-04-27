@@ -1,4 +1,10 @@
-## Hello I am a CS Major looking for work. Will add more once I add more projects and they go public.
+##👋 Welcome!
+
+Hi, I’m Saud — a Computer Science student at the University of Illinois Chicago.
+
+I enjoy building real-world applications and working on projects that combine problem-solving, clean design, and practical functionality. My experience includes developing applications in Java, Python, and SQL, as well as working with APIs and data-driven systems.
+
+I’m currently focused on improving my software development skills and looking for opportunities in software engineering and IT support.
 
 <!--
 **aspiringGithuber/aspiringGithuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
