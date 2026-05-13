@@ -34,14 +34,14 @@ I’m currently focused on improving my development skills and looking for inter
 
 ---
 
-## 🌦️ Weather App (currently private)
+## 🌦️ Weather App(https://github.com/FMarkett11/Weather-Boy-1000)
 - Built using **Java, JavaFX, and REST API**
 - Displays real-time weather, 24-hour updates, and 7-day forecasts  
 - Custom Fallout-themed UI with accessibility features  
 
 ---
 
-## ♟️ Multiplayer Checkers Game (currently private)
+## ♟️ Multiplayer Checkers Game(https://github.com/FMarkett11/CS342-Checkers)
 - Java-based **client-server architecture**  
 - Supports hosting, joining, and AI opponents  
 - Includes chat system and win/loss tracking  
