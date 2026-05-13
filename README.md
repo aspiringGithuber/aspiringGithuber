@@ -28,20 +28,20 @@ I’m currently focused on improving my development skills and looking for inter
 
 ## 📌 Projects
 
-- [🌦️ Weather App](#-weather-app)
-- [♟️ Multiplayer Checkers Game](#-multiplayer-checkers-game)
-- [🚦 Chicago Traffic Data Tool](#-chicago-traffic-data-tool)
+- [🌦️ Weather App](https://github.com/FMarkett11/Weather-Boy-1000)
+- [♟️ Multiplayer Checkers Game](https://github.com/FMarkett11/CS342-Checkers)
+- 🚦 Chicago Traffic Data Tool(currently private)
 
 ---
 
-## 🌦️ Weather App(https://github.com/FMarkett11/Weather-Boy-1000)
+## [🌦️ Weather App](https://github.com/FMarkett11/Weather-Boy-1000)
 - Built using **Java, JavaFX, and REST API**
 - Displays real-time weather, 24-hour updates, and 7-day forecasts  
 - Custom Fallout-themed UI with accessibility features  
 
 ---
 
-## ♟️ Multiplayer Checkers Game(https://github.com/FMarkett11/CS342-Checkers)
+## [♟️ Multiplayer Checkers Game](https://github.com/FMarkett11/CS342-Checkers)
 - Java-based **client-server architecture**  
 - Supports hosting, joining, and AI opponents  
 - Includes chat system and win/loss tracking  
